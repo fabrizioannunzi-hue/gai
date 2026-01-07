@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Dental AI - Studio Bianchi",
+  "description": "Assistente virtuale intelligente per lo Studio Dentistico del Dr. Alessandro Bianchi. Triage odontoiatrico, igiene, estetica dentale e prenotazioni.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
